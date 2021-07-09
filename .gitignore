@@ -7,3 +7,5 @@ _site
 .vercel
 .Gemfile.lock
 .Gemfile
+*.lock
+Gemfile
