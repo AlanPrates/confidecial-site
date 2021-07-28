@@ -8,4 +8,5 @@ _site
 .Gemfile.lock
 .Gemfile
 *.lock
-Gemfile
+.Gemfile
+.jekyll-cache
